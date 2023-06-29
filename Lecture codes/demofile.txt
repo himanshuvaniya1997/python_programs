@@ -1,0 +1,1 @@
+this is w+ mode using python.this is r+ mode using python.
